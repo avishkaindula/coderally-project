@@ -1,0 +1,9 @@
+export const START_NEW_STORY = "/start-new-story";
+export const PREVIOUS_GAMES = "/previous-games";
+export const BATTLE_PAGE_V1 = "/battle-page-v1";
+export const BATTLE_PAGE_V2 = "/battle-page-v2";
+export const BATTLE_PAGE_V3 = "/battle-page-v3";
+export const HOME_PAGE = "/";
+export const ABOUT_PAGE = "/about";
+export const STORY_PAGE = "/story";
+export const VIEW_STORY_PAGE = "/view-story";
